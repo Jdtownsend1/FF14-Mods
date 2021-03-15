@@ -1,1 +1,1 @@
-# FF14-Mods
+# FF14-Mods to be used with TexTools
