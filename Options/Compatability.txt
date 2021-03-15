@@ -1,0 +1,1 @@
+You can use -one- option from each folder, you can mix and match as you like, but options in the same folder will over-write each other.
