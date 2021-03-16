@@ -1,3 +1,0 @@
-Each Option in the Color Options folder includes a full set of colors for ALL the tangas/Halters.
-
-If you wish to mix and match color options, simply disable files as you wish in TexTool's Import menu when importing these options.
